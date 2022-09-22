@@ -723,6 +723,9 @@ margin-left: 9px;
         font-size: 25px;
 
     }
+      .about .about-content .right .text {
+        height: 70px;
+    }
 
 }
 
