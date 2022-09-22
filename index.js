@@ -33,14 +33,14 @@ $('.menu-btn').click(function(){
 
 // Typing Text 
 var typed = new Typed(".typing",{
-  strings: [ , "Web Developer", "Writer" , "Photoghrapher",  ],
+  strings: [ , "Full Stack Web Developer", "Writer" , "Photoghrapher",  ],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true
 });
 
 var typed = new Typed(".typing-2",{
-  strings: [ , "Web Developer", "Writer" , "Photoghrapher",  ],
+  strings: [ , "Full Stack Web Developer", "Writer" , "Photoghrapher",  ],
   typeSpeed: 100,
   backSpeed: 60,
   loop: true
